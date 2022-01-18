@@ -16,7 +16,7 @@ A equipe de desenvolvimento é dividida em:
 
 **Linguagens a serem utilizadas:**
 
-- Backend:
+- **Backend**:
 
     <a href="./backend/typescript/README.md"> `TypeScript`</a>
 
