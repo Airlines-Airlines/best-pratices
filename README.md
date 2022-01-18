@@ -18,8 +18,14 @@ A equipe de desenvolvimento é dividida em:
 
 - **Backend**:
 
-    <a href="./backend/typescript/README.md"> `TypeScript`</a>
+  <a href="./backend/typescript/README.md"> `TypeScript`</a>
 
-    <a href="./backend/JavaScript/README.md"> ``JavaScript``</a>
+  <a href="./backend/JavaScript/README.md"> `JavaScript`</a>
+
+- **Frontend**:
+
+Framework:
+  
+  <a href="./frontend/framework/react/README.md"> `React`</a>
 
 Observações:
