@@ -23,9 +23,9 @@ A equipe de desenvolvimento é dividida em:
   <a href="./backend/JavaScript/README.md"> `JavaScript`</a>
 
 - **Frontend**:
-
-Framework:
   
   <a href="./frontend/framework/react/README.md"> `React`</a>
+  
+    <a href="./frontend/framework/axios/README.md"> `Axios`</a>
 
 Observações:
